@@ -1,5 +1,5 @@
 public class AllEqual {
-    public static void main(String args[]) {
+    public static void main(String[] args) {
       
       int args1 = Integer.parseInt(args[0]);
       int args2 = Integer.parseInt(args[1]);
